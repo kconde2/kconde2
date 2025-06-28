@@ -26,17 +26,17 @@ I'm deeply focused on delivering high-quality code and integrating AI features (
 
 ## 🌟 Highlight Projects
 
-### 📌 [Plus Que Pro – AI-Powered CRM (2024-2025)](https://www.plus-que-pro.fr)
+### 📌 Plus Que Pro – OCR and AI-Powered CRM (2024-2025)
 - Custom-built CRM (web & mobile) with document OCR and AI agents (LLM)
 - DDD-based architecture, cross-platform deployment, CI/CD GitLab
 - Stack: Node.js, Next.js, React.js, PHP, Mindee OCR, LLM
 
-### 📌 [HeyTeam – SaaS HR Platform Refactoring (2022–2024)](https://www.heyteam.com)
+### 📌 HeyTeam – SaaS HR Platform Refactoring (2022–2024)
 - Re-architecture of the platform using Hexagonal design + DDD
 - AI Chatbot integration connected to internal KB (RAG)
 - Stack: Node.js, Vue.js, PHP, Python, FastAPI, LLM, LangChain
 
-### 📌 [Jarvis Legal – Legal Tech Enhancements (2020–2022)](https://www.jarvis-legal.com)
+### 📌 Jarvis Legal – Legal Tech Enhancements (2020–2022)
 - Mailbox & document API integration (Nylas, Yousign)
 - Dockerized deployment, automated flows, security improvements
 - Stack: Node.js, Vue.js, PHP, Docker, Python
