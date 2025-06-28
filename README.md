@@ -20,7 +20,7 @@ I'm deeply focused on delivering high-quality code and integrating AI features (
 - **AI** : OpenAI, LangChain, LlamaIndex, OCR, RAG
 - **DevOps** : Docker, GitHub/GitLab CI, Kubernetes, Ansible, Terraform, AWS
 - **Database** : MySQL, Redis, SQL, MongoDB
-- **Architecture** : Hexagonal, DDD, TDD, Clean Code, ISO27001
+- **Architecture** : Hexagonal, DDD, TDD, Clean Code, UML Diagram
 
 ---
 
