@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Kaba Condé
-Senior Fullstack Dev | Node, PHP, React, Vue, IA Python (LLM, LangChain)<br>
+Senior Fullstack Dev | Node, React, Vue, PHP, IA Python (LLM, LangChain)<br>
 📍 France | 💼 Freelance | 🚀 Open to collaborations & missions
 
 ---
