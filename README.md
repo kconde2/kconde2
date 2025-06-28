@@ -36,7 +36,7 @@ I'm deeply focused on delivering high-quality code and integrating AI features (
 - AI Chatbot integration connected to internal KB (RAG)
 - Stack: Node.js, Vue.js, PHP, Python, FastAPI, LLM, LangChain
 
-### 📌 Jarvis Legal – Legal Tech Enhancements (2020–2022)
+### 📌 Jarvis Legal – SaaS Legal Tech Enhancements (2020–2022)
 - Mailbox & document API integration (Nylas, Yousign)
 - Dockerized deployment, automated flows, security improvements
 - Stack: Node.js, Vue.js, PHP, Docker, Python
