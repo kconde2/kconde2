@@ -26,7 +26,7 @@ I'm deeply focused on delivering high-quality code and integrating AI features (
 
 ## 🌟 Highlight Projects
 
-### 📌 Plus Que Pro – OCR and AI-Powered CRM (2024-2025)
+### 📌 Plus Que Pro – SaaS OCR and AI-Powered CRM (2024-2025)
 - Custom-built CRM (web & mobile) with document OCR and AI agents (LLM)
 - DDD-based architecture, cross-platform deployment, CI/CD GitLab
 - Stack: Node.js, Next.js, React.js, PHP, Mindee OCR, LLM
