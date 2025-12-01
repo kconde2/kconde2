@@ -6,7 +6,7 @@ Senior Fullstack Dev | Node, React, Vue, PHP, IA Python (LLM, LangChain)<br>
 
 ## 🧠 About me
 
-I'm a Senior Fullstack Developer with over 8 years of experience in SaaS, CRM and AI-powered platforms.
+I'm a Senior Fullstack Developer with over 9 years of experience in SaaS, CRM and AI-powered platforms.
 I build secure, scalable, and cleanly architected apps using modern frameworks and DevOps practices.
 
 I'm deeply focused on delivering high-quality code and integrating AI features (LLM, LangChain, OCR, RAG) into business-critical platforms.
